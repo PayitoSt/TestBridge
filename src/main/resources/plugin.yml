@@ -1,0 +1,4 @@
+name: TestBridge
+version: '${project.version}'
+main: net.rpgmyth.testbridge.TestBridge
+api-version: '1.20'
